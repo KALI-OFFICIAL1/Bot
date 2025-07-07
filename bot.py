@@ -9,7 +9,7 @@ from pymongo import MongoClient
 # Configuration
 API_ID = int(os.getenv("API_ID", "21546320"))
 API_HASH = os.getenv("API_HASH", "c16805d6f2393d35e7c49527daa317c7")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7635808558:AAFTTOt7adAuS3DRGvlufuJWj5hWfIAobxE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7635808558:AAFbtWaI_b7zPMcgzpYx5DPov8EpSFrnkgQ")
 MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://Ishuxd:ishusomuxd@ishuxd.78ljc.mongodb.net/?retryWrites=true&w=majority&appName=Ishuxd")
 LOG_CHAT_ID = int(os.getenv("LOG_CHAT_ID", "-1002538785183"))
 
